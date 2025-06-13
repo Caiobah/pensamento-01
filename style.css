@@ -1,10 +1,15 @@
 body {
   color:aliceblue;
   background: black;
+  margin: 0px;
 }
 
 header { 
-   border: solid 2px green;
+   border-bottom: solid 2px rgb(3, 87, 3);
+   padding: 20px;
+   font-size: 32px;
+   color: rgb(155, 12, 12)
+
 
 }
 
