@@ -1,6 +1,11 @@
 body {
+  color:aliceblue;
   background: black;
-  color: white;
+}
+
+header { 
+   border: solid 1px white
+
+}
 
  
-}
