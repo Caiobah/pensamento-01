@@ -1,1 +1,0 @@
-# pensamento-01
